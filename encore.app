@@ -1,0 +1,1 @@
+{"id": "market-x-ai-marketing-analytics-platform-abc2", "lang": "typescript"}
